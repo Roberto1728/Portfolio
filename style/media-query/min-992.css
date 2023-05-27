@@ -1,0 +1,68 @@
+@media screen and (min-width: 992px) {
+
+  
+
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  
+
+  nav li a:hover {
+    background: #569DAA;
+    border-radius: 5px;
+  }
+
+  nav li a {
+    transition: background .3s ;
+    
+  }
+
+  nav {
+    background: #87CBB9;
+  }
+
+  
+
+  #hero .hero-caption {
+    padding: 180px 20px;
+  }  
+
+  #hero .hero-caption {
+    padding: 150px 20px;
+    padding-bottom: 200px;
+    font-size: 2rem;
+  }
+
+  #hero {
+    background-position:  right ;
+    background-size: 550px;
+  }
+
+
+  
+
+  #gallery .item:hover {
+   
+    transform: scale(1.1);
+  }
+
+  #gallery .item {
+    transition: all .3s;
+  }
+  
+  #gallery .item {
+    flex: 0 1 33.3333%;
+  }
+
+  #gallery {
+    padding: 80px 0;
+  }
+
+  .gallery {
+    margin: 0 100px;
+  }
+
+}

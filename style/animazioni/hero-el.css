@@ -1,0 +1,50 @@
+@keyframes fade-in {
+
+  0% {
+    opacity: 0;
+  }
+
+  100%{
+    opacity: 1;
+  }
+}
+
+
+@keyframes fade-to-left {
+
+  0% {
+    opacity: 0;
+    transform: translateX(100px);
+  }
+
+  100%{
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+
+@keyframes fade-to-rigth {
+
+  0% {
+    opacity: 0;
+    transform: translateX(-100px);
+  }
+
+  100%{
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+
+@keyframes img-fade-in {
+
+  0% {
+    opacity: 0;
+  }
+
+  100%{
+    opacity: 1;
+  }
+}

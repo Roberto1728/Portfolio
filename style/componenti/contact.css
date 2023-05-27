@@ -1,0 +1,69 @@
+.contatti  .el {
+  background: #577D86;;
+  border-radius: 20px;
+  /* box-shadow: 0 0 24px rgba(0, 0, 0, 0.5); */
+  padding:15px;
+  width: 400px;
+  margin: 15px auto;
+} 
+
+.contatti .el h3 {
+  text-align: center;
+  font-weight:lighter;
+} 
+
+.contatti a {
+  color:  #fff;
+} 
+
+.contatti {
+  background: #B9EDDD;
+  border-radius: 25px;
+  /* box-shadow: 0 0 24px rgba(0, 0, 0, 0.5); */
+  padding:15px;
+  display: flex;
+  flex-wrap: wrap;
+} 
+
+#contatti  {
+  padding: 90px;
+} 
+
+#contatti h2 {
+  text-align: center;
+  color: #577D86;
+  margin: 0;
+} 
+
+#contatti hr {
+  border-bottom: 2px solid #577D86;
+  width: 225px;
+  margin-bottom: 20px;
+} 
+
+
+
+
+
+
+/* 
+@media screen and (max-width: 576px) {
+
+  #contatti {
+    padding: 50px 20px;
+  }
+
+  .wrapper {
+    margin-top: 30px;
+  }
+
+}
+
+
+@media screen and (min-width: 768px) {
+
+  .contatti .el {
+    flex: 0 1 25%;
+  }
+
+} */

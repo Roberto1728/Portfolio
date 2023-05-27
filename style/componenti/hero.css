@@ -1,0 +1,164 @@
+#hero .hero-caption {
+  text-align: start;
+  padding: 120px 20px;
+}
+
+#hero {
+  background: url(../../img/img-v-1.jpg) no-repeat right;
+  background-size: 700px;
+  color: #569DAA;
+  padding-top: 85px;
+}
+
+#hero .btn {
+  display: inline-block;
+  background: #87CBB9;
+  /* background: #87CBB9; */
+  padding: 12px 24px;
+  color: #fff;
+  text-transform: uppercase;
+  transition: background .3s;
+  border-radius: 50px;
+  margin: 5px 3px;
+  border: 1px solid #569DAA;
+  }
+
+#hero .btn:hover {
+  background: #577D86 ;
+}
+
+#hero .btn {
+  opacity: 0;
+  animation: fade-in .5s 1.5s forwards ease-in ;
+}
+  
+#hero h1 {
+  opacity: 0;
+  animation: fade-to-left .5s 1s forwards ease-in ;
+}
+  
+#hero h2 {
+  opacity: 0;
+  animation: fade-to-rigth .5s 1s forwards ease-in ;
+}
+  
+#hero h3 {
+  opacity: 0;
+  animation: fade-to-rigth .5s 1s forwards ease-in ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media screen and (max-width: 400px) {
+  
+  
+  
+  #hero .hero-caption {
+    padding: 50px 20px;
+    padding-bottom: 200px;
+  }
+
+  #hero {
+    background-position: 50% 100%;
+    background-size: 280px;
+  } 
+
+}
+
+
+
+@media screen and (max-width: 576px) {
+
+  
+  
+  #hero .hero-caption {
+    padding: 50px 20px;
+    padding-bottom: 200px;
+  }
+
+  #hero {
+    background-position: 85% 110%;
+    background-size: 375px;
+
+  }
+
+}
+
+
+
+@media screen and (min-width: 577px) {
+
+  #hero .hero-caption {
+    padding: 50px 20px;
+    padding-bottom: 200px;
+  }
+
+  #hero {
+    background-position: 85% 110%;
+    background-size: 450px;
+  }
+
+}
+
+
+@media screen and (min-width: 768px) {
+
+  #hero {
+    padding-top: 120px;
+  }
+
+  #hero .hero-caption {
+    padding: 50px 20px;
+    padding-bottom: 200px;
+  }
+
+  #hero {
+    background-position: 85% 110%;
+    background-size: 550px;
+  }
+}
+
+
+
+@media screen and (min-width: 992px) {
+
+
+  #hero .hero-caption {
+    padding: 180px 20px;
+  }  
+
+  #hero .hero-caption {
+    padding: 150px 20px;
+    padding-bottom: 200px;
+    font-size: 2rem;
+  }
+
+  #hero {
+    background-position:  right ;
+    background-size: 550px;
+  }
+
+
+}
+
+
+@media screen and (min-width: 1024px) {
+
+  #hero {
+    background-position:  right ;
+    background-size: 680px;
+  }
+} */

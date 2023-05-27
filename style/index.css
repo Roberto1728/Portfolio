@@ -1,0 +1,26 @@
+@import "componenti/general.css";
+@import "componenti/header.css";
+@import "componenti/nav.css";
+@import "componenti/hero.css";
+@import "componenti/gallery.css";
+@import "componenti/about.css";
+@import "componenti/formazione.css";
+@import "componenti/contact.css";
+@import "componenti/footer.css";
+
+@import "media-query/max-400.css";
+@import "media-query/max-576.css";
+@import "media-query/min-577.css";
+@import "media-query/min-768.css";
+@import "media-query/min-992.css";
+@import "media-query/min-1024.css";
+
+
+@import "animazioni/hero-el.css";
+
+
+
+
+
+
+

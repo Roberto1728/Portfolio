@@ -1,0 +1,14 @@
+
+@media screen and (min-width: 577px) {
+
+  #hero .hero-caption {
+    padding: 50px 20px;
+    padding-bottom: 200px;
+  }
+
+  #hero {
+    background-position: 85% 110%;
+    background-size: 450px;
+  }
+
+}

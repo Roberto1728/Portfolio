@@ -1,0 +1,31 @@
+header {
+  background: #87CBB9;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  height: 75px;
+  z-index: 1;
+
+}
+
+header .logo-container {
+  padding: 10px;
+}
+
+header img {
+  width: 50px;
+  border-radius: 50%;
+}
+
+
+/* @media screen and (min-width: 992px) {
+
+
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+} */

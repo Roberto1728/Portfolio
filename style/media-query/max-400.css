@@ -1,0 +1,19 @@
+@media screen and (max-width: 400px) {
+  
+ 
+  
+  #hero .hero-caption {
+    padding: 50px 20px;
+    padding-bottom: 200px;
+  }
+
+  #hero {
+    background-position: 50% 100%;
+    background-size: 280px;
+  } 
+
+  #gallery .btn {
+    margin: 10px 3px;
+  }
+
+}

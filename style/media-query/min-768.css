@@ -1,0 +1,93 @@
+@media screen and (min-width: 768px) {
+
+  nav li a {
+    font-size: 1.7rem;
+  }
+
+
+
+  #hero {
+    padding-top: 120px;
+  }
+
+  #hero .hero-caption {
+    padding: 50px 20px;
+    padding-bottom: 200px;
+  }
+
+  #hero {
+    background-position: 85% 110%;
+    background-size: 550px;
+  }
+
+
+
+
+  #gallery {
+    padding: 100px 0;
+  }
+
+  .gallery {
+    margin: 0 40px;
+  }
+
+  #gallery .item {
+    flex: 0 1 50%;
+  }
+
+ 
+
+
+
+  .about {
+    display: flex;
+    align-items: center;
+    height: 550px;
+  }
+
+  #about {
+    background: #87CBB9;
+    padding: 15px;
+  }
+  
+  .about .profile-pic {
+    flex: 0 1 35%;
+    padding: 20px;
+  }
+
+  .about .description {
+    flex: 0 1 65%;
+    padding: 20px;
+  }
+
+
+  .contatti .el {
+    flex: 0 1 25%;
+  }
+
+   
+
+  #formazione {
+    padding: 100px 15px;
+  }
+
+    .content .item {
+      flex: 1 1 20%;
+      padding: 10px 10px;
+    }   
+    
+
+    
+    footer .content {
+      display: flex;
+    } 
+
+    footer .social {
+      display: flex-start;
+      
+    } 
+
+    footer p {
+      margin-left: auto;
+    } 
+}

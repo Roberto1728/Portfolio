@@ -1,0 +1,7 @@
+@media screen and (min-width: 1024px) {
+
+  #hero {
+    background-position:  right ;
+    background-size: 600px;
+  }
+}

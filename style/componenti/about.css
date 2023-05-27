@@ -1,0 +1,80 @@
+#about img {
+  border-radius: 25%;
+  padding: 25px 0;
+}
+
+#about {
+  padding: 50px;
+  background: #87CBB9;
+  color:#577D86;
+  font-weight: 500;
+}
+
+#about .btn {
+  display: inline-block;
+  background:    #577D86 ;
+  /* background: #87CBB9; */
+  padding: 12px 24px;
+  color: #fff;
+  text-transform: uppercase;
+  transition: background .3s;
+  border-radius: 50px;
+  margin: 5px 3px;
+  border: 1px solid #569DAA;
+  }
+
+#about .btn:hover {
+  background: #569DAA ;
+}
+
+
+
+
+
+
+/* 
+
+@media screen and (max-width: 576px) {
+
+
+  .about .description {
+    text-align: center;
+  }
+
+  .about .profile-pic {
+    flex: 0 1 80%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .about img {
+    width: 90%;
+  }
+
+}
+
+
+@media screen and (min-width: 768px) {
+
+  .about {
+    display: flex;
+    align-items: center;
+    height: 550px;
+  }
+
+  #about {
+    background: #87CBB9;
+    padding: 15px;
+  }
+  
+  .about .profile-pic {
+    flex: 0 1 35%;
+    padding: 20px;
+  }
+
+  .about .description {
+    flex: 0 1 65%;
+    padding: 20px;
+  }
+
+} */
