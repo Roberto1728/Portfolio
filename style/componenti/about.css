@@ -27,6 +27,9 @@
   background: #569DAA ;
 }
 
+#about .description p {
+  line-height: 1.3;
+} 
 
 
 
